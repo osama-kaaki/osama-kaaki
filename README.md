@@ -35,3 +35,10 @@ Currently expanding my capabilities in SQL and Microsoft business process automa
 Developing practical business automation solutions that connect data processing, reporting, and operational workflows.
 
 My goal is to build reliable, maintainable solutions that address real business needs.
+
+## Contact & Collaboration
+
+For business reporting and automation inquiries, feel free to reach out:
+
+- **Email:** [osamakaaki.business@gmail.com](mailto:osamakaaki.business@gmail.com)
+- **LinkedIn:** [Osama Kaaki](https://www.linkedin.com/in/osama-kaaki/)
